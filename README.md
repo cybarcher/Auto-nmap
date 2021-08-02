@@ -17,3 +17,11 @@ pip install netaddr
 pip install nmap
 sudo apt install xsltproc
 ```
+# Usage
+
+save ip/subnets list in a single file and run the following command
+
+python auto-nmap.py iplist threads_count
+
+### Example
+python auto-nmap.py iplist 50
