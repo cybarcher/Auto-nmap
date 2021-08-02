@@ -39,3 +39,6 @@ Save ip/subnets list in a single file and run the following command
 ### HTML result displayed in browser
 ![Screenshot from 2021-08-02 05-58-16](https://user-images.githubusercontent.com/54572947/127844029-13a8f430-4d81-43c9-a48f-40407284665e.png)
 
+
+
+Special Thanks to https://nmap.org/ 
