@@ -26,3 +26,15 @@ Save ip/subnets list in a single file and run the following command
 
 ### Example
 ```python auto-nmap.py iplist 50```
+
+# Output Result
+### Created separate XML and HTML folders
+![Screenshot from 2021-08-02 05-56-20](https://user-images.githubusercontent.com/54572947/127843838-74c30a39-a8e1-42a3-b383-51d47d3c8e92.png)
+
+
+### File Names
+![Screenshot from 2021-08-02 05-56-36](https://user-images.githubusercontent.com/54572947/127843915-18ab2a17-490d-4c84-8838-33deec7fd5f8.png)
+
+### HTML result displayed in browser
+![Screenshot from 2021-08-02 05-58-16](https://user-images.githubusercontent.com/54572947/127844029-13a8f430-4d81-43c9-a48f-40407284665e.png)
+
